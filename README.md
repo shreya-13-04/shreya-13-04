@@ -80,9 +80,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-13-04&layout=compact&theme=radical" height="150"/>
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=shreya-13-04&theme=radical" alt="GitHub Streak"/>
+  <img src="https://img.shields.io/badge/🔥%20GitHub%20Streak-Warming%20Up...-pink?style=for-the-badge"/>
 </p>
+
 
 
 <!-- Optional: Trophy section (will update over time) -->
