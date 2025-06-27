@@ -81,8 +81,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shreya-13-04&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.vercel.app?user=shreya-13-04&theme=radical" alt="GitHub Streak"/>
 </p>
+
 
 <!-- Optional: Trophy section (will update over time) -->
 <p align="center">
