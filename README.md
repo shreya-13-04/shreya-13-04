@@ -76,17 +76,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreya-13-04&show_icons=true&theme=radical" height="150" alt="Shreya's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-13-04&layout=compact&theme=radical" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shreya-13-04&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-13-04&layout=compact&theme=radical" height="150"/>
 </p>
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shreya-13-04&theme=radical" alt="GitHub Streak"/>
 </p>
 
-</p>
-
+<!-- Optional: Trophy section (will update over time) -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shreya-13-04&theme=radical&no-frame=true&column=6"/>
 </p>
