@@ -80,8 +80,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-13-04&layout=compact&theme=radical" height="150" alt="Top Languages"/>
 </p>
 
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shreya-13-04&theme=radical" alt="GitHub Streak"/>
+</p>
+
 </p>
 
 <p align="center">
