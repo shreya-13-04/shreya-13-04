@@ -75,12 +75,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-13-04&layout=compact&theme=radical" height="150"/>
 </p>
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shreya-13-04&theme=tokyonight&hide_border=false&border_radius=10" width="95%" />
-</p>
-
-
 ### 🔥 My Stats
 
 <div align="center">
