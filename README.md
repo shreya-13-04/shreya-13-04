@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Shreya Balasubramani</h1> 
-<h3 align="center">Aspiring Data Scientist | AI Researcher | Full-Stack Developer</h3>
+<h3 align="center">Aspiring Data Scientist • AI Researcher • Full-Stack Developer</h3>
 
 ---
 
@@ -18,11 +18,10 @@
 ## 🚀 Tech Stack
 
 ### 👩‍💻 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css" />
+</p>
+
 
 ---
 
@@ -33,41 +32,40 @@
 
 ---
 
-### 🧠 AI & Data Science
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,django,tensorflow,pytorch,numpy,pandas,matplotlib" />
+</p>
 
 
 ---
 
 ### 🗃️ Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
 
 
 ---
 
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+### 🧰 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,arduino,figma,firebase,aws,vercel,notion" />
+</p>
 
 ---
 
 ## 📚 Notable Projects
 
-- 📸 [**YOLOv8-Based Phone Detector**](#) – Real-time classroom analytics using custom-trained YOLOv8 on video datasets
-- 🔒 [**Mental Health Chatbot**](#) – Sentiment-aware conversational agent with emotion tracking and emotion charting
-- 🎥 [**Smart Inventory Object Counter**](#) – Real-time camera-based system to count inventory items using OpenCV
-- 🌞 [**Solar Tracking System**](#) – Arduino-powered dual-axis solar tracking for energy optimization
-- ⛽ [**Gas Level Detection System**](#) – Prototype for monitoring gas cylinder levels using embedded sensors
-- 🍲 [**Hearth – Recipe Book App**](#) – Desktop recipe management app built with Electron.js and local storage
-
+| 💡 Project | 📝 Description |
+|-----------|----------------|
+| 🧠 **[Mental Health Chatbot](#)** | Sentiment-aware conversational agent with emotion tracking and emotion charting |
+| 📸 **[YOLOv8-Based Phone Detector](#)** |  Real-time classroom analytics using custom-trained YOLOv8 on video datasets |
+| 📦 **[Smart Inventory Object Counter](#)** | Real-time camera-based system to count inventory items using OpenCV |
+| 🌞 **[Solar Tracking System](#)** | Arduino-powered dual-axis solar tracking for energy optimization |
+| ⛽ **[Gas Level Detection System](#)** | Prototype for monitoring gas cylinder levels using embedded sensors |
+| 🍲 **[Hearth – Recipe Book App](#)** | Desktop recipe management app built with Electron.js and local storage |
 ---
 
 
@@ -82,30 +80,62 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥%20GitHub%20Streak-Warming%20Up...-pink?style=for-the-badge"/>
+  <img src="https://streak-stats.demolab.com?user=shreya-13-04&theme=tokyonight&hide_border=false&border_radius=10" width="95%" />
 </p>
 
 
 
-<!-- Optional: Trophy section (will update over time) -->
+
+### 🔥 My Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>🔥 Total Contributions</strong><br>
+        <img src="https://img.shields.io/badge/105%20Contributions-July%2023%2C%202024%20to%20Present-orange?style=for-the-badge&logo=github" />
+      </td>
+      <td align="center">
+        <strong>⚡ Current Streak</strong><br>
+        <img src="https://img.shields.io/badge/4%20Days-July%206%20to%20July%209-yellow?style=for-the-badge&logo=github" />
+      </td>
+      <td align="center">
+        <strong>🏆 Longest Streak</strong><br>
+        <img src="https://img.shields.io/badge/5%20Days-March%2030%20to%20April%203-blue?style=for-the-badge&logo=github" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+## 🔥 Contribution Stats
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreya-13-04&theme=radical&no-frame=true&column=6"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-13-04&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" />
 </p>
+
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreya-13-04&style=flat-square&color=blue" alt="Visitor Count"/>
 </p>
 
-
-
-
 ---
 
-## 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyabalasubramani)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cb.sc.u4cse23347@cb.students.amrita.edu)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shreya-13-04)
+## 📫 Let's Connect
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreyabalasubramani">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:cb.sc.u4cse23347@cb.students.amrita.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shreya-13-04">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 ---
 
 <p align="center"><strong>🤖 Training models and myself — both overfit sometimes.</strong></p>
