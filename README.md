@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Shreya Balasubramani</h1>
+<h1 align="center">Hi there 👋, I'm Shreya Balasubramani</h1> 
 <h3 align="center">Aspiring Data Scientist | AI Researcher | Full-Stack Developer</h3>
 
 ---
