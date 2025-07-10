@@ -74,7 +74,7 @@
     <tr>
       <td align="center">
         <strong>🔥 Total Contributions</strong><br>
-        <img src="https://img.shields.io/badge/105%20Contributions-July%2023%2C%202024%20to%20Present-orange?style=for-the-badge&logo=github" />
+        <img src="https://github-readme-stats.vercel.app/api?username=shreya-13-04&show_icons=true&count_private=true&theme=default" />
       </td>
       <td align="center">
         <strong>⚡ Current Streak</strong><br>
