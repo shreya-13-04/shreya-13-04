@@ -68,8 +68,6 @@
 | 🍲 **[Hearth – Recipe Book App](#)** | Desktop recipe management app built with Electron.js and local storage |
 ---
 
-
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -81,8 +79,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shreya-13-04&theme=tokyonight&hide_border=false&border_radius=10" width="95%" />
 </p>
-
-
 
 
 ### 🔥 My Stats
@@ -120,7 +116,7 @@
   <img src="https://komarev.com/ghpvc/?username=shreya-13-04&style=flat-square&color=blue" alt="Visitor Count"/>
 </p>
 
----
+
 
 ## 📫 Let's Connect
 
@@ -135,7 +131,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
----
+
 
 <p align="center"><strong>🤖 Training models and myself — both overfit sometimes.</strong></p>
 
