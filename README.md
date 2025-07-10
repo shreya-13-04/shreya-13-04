@@ -25,15 +25,7 @@
 
 ---
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
----
-
-
-### ⚙️ Frameworks & Libraries
+### ⚙️ Web Development : Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,django,tensorflow,pytorch,numpy,pandas,matplotlib" />
 </p>
