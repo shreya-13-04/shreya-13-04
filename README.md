@@ -43,7 +43,7 @@
 
 ### 🧰 Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,arduino,figma,firebase,aws,vercel,notion" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,arduino,figma,firebase,notion" />
 </p>
 
 ---
