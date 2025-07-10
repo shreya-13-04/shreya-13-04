@@ -68,7 +68,6 @@
 | 🍲 **[Hearth – Recipe Book App](#)** | Desktop recipe management app built with Electron.js and local storage |
 ---
 
-
 ## 📈 GitHub Stats
 
 <p align="center">
