@@ -95,8 +95,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-13-04&theme=chartreuse-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-13-04&theme=github-dark&hide_border=true&area=true" />
 </p>
+
 
 
 ## 📫 Let's Connect
