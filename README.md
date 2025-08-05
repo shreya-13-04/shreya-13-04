@@ -88,20 +88,24 @@
   </table>
 </div>
 
-
 ## 🔥 Contribution Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-13-04&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" />
+  <!-- Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-13-04&theme=chartreuse-dark&hide_border=true&ring=99FF33&fire=99FF33&currStreakLabel=99FF33&sideNums=99FF33&sideLabels=99FF33&background=000000" 
+    alt="GitHub Streak Stats"
+    width="600" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-13-04&theme=chartreuse-dark&hide_border=true&area=true" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreya-13-04&style=flat-square&color=blue" alt="Visitor Count"/>
+  <!-- Contribution Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-13-04&theme=chartreuse-dark&hide_border=true&area=true&bg_color=000000&line=66B2FF&point=CCFF33" 
+    alt="GitHub Contribution Graph"
+    width="1000"
+  />
 </p>
 
 
