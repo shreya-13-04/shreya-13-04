@@ -96,6 +96,7 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-13-04&hide_border=true&area=true&bg_color=0D1117&color=FFFFFF&line=87CEEB&point=C0C0C0" />
+  width="600" 
 </p>
 
 
