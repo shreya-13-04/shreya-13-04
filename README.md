@@ -95,7 +95,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-13-04&theme=github-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-13-04&hide_border=true&area=true&bg_color=000000&color=99FF33&line=66B2FF&point=CCFF33" />
 </p>
 
 
