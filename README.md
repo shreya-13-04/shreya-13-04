@@ -91,24 +91,13 @@
 ## 🔥 Contribution Stats
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-13-04&theme=chartreuse-dark&hide_border=true&ring=99FF33&fire=99FF33&currStreakLabel=99FF33&sideNums=99FF33&sideLabels=99FF33&background=000000" 
-    alt="GitHub Streak Stats"
-    width="600" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-13-04&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" />
 </p>
 
 <p align="center">
-  <!-- Contribution Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-13-04&theme=chartreuse-dark&hide_border=true&area=true&bg_color=000000&line=66B2FF&point=CCFF33" 
-    alt="GitHub Contribution Graph"
-    width="1000"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-13-04&theme=chartreuse-dark&hide_border=true&area=true" />
 </p>
-
-
+change in this code
 
 ## 📫 Let's Connect
 
