@@ -87,20 +87,14 @@
     </tr>
   </table>
 </div>
-
-## 🔥 Contribution Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-13-04&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" 
-  width="500"
-    />
+
+| Streak Stats | Contribution Graph |
+|--------------|-------------------|
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-13-04&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" width="450" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-13-04&hide_border=true&area=true&bg_color=0D1117&color=FFFFFF&line=87CEEB&point=C0C0C0" width="450" /> |
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-13-04&hide_border=true&area=true&bg_color=0D1117&color=FFFFFF&line=87CEEB&point=C0C0C0"
-  width="500" 
-    />
-</p>
 
 
 ## 📫 Let's Connect
