@@ -87,6 +87,8 @@
     </tr>
   </table>
 </div>
+
+### Contributions
 <p align="center">
 
 | Streak Stats | Contribution Graph |
