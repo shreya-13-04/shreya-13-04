@@ -95,8 +95,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-13-04&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya-13-04&theme=chartreuse-dark&hide_border=true&area=true" />
+</p>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreya-13-04&style=flat-square&color=blue" alt="Visitor Count"/>
