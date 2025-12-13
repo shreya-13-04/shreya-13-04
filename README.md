@@ -114,5 +114,5 @@
 </p>
 
 
-<p align="center"><strong>🤖 Training models and myself — both overfit sometimes.</strong></p>
+<p align="center"><strong>🤖 Training models and myself - both overfit sometimes.</strong></p>
 
