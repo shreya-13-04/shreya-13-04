@@ -5,8 +5,7 @@
 <h3 align="center">🔗 Live Website:
  https://shreya-tech.vercel.app/
 </h3>
----
-
+</br>
 🌱 I’m passionate about AI for social good, research-driven development, and building tools that make an impact.
 
 📌 Currently working on:
