@@ -1,10 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Shreya Balasubramani</h1> 
 <h3 align="center">Aspiring Data Scientist • AI Researcher • Full-Stack Developer</h3>
 
-<h3 align=center">## 🌐 Portfolio
-
-🔗 **Live Website:**  
-👉 https://shreya-tech.vercel.app/
+<h3 align="center">🌐 Portfolio</h3>
+<h3 align="center">🔗 Live Website:
+ https://shreya-tech.vercel.app/
 </h3>
 ---
 
