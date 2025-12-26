@@ -1,6 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Shreya Balasubramani</h1> 
 <h3 align="center">Aspiring Data Scientist • AI Researcher • Full-Stack Developer</h3>
 
+## 🌐 Portfolio
+
+🔗 **Live Website:**  
+👉 https://shreya-tech.vercel.app/
+
 ---
 
 🌱 I’m passionate about AI for social good, research-driven development, and building tools that make an impact.
