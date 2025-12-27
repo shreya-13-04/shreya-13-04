@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Shreya Balasubramani</h1> 
 <h3 align="center">Aspiring Data Scientist • AI Researcher • Full-Stack Developer</h3>
+<p align="center">
+  <a href="https://shreya-tech.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
-<h3 align="center">🌐 Portfolio</h3>
-<h3 align="center">🔗 Live Website:
- https://shreya-tech.vercel.app/
-</h3>
-</br>
 🌱 I’m passionate about AI for social good, research-driven development, and building tools that make an impact.
 
 📌 Currently working on:
