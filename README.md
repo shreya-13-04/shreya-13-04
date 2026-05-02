@@ -8,11 +8,11 @@
 
 🌱 I’m passionate about AI for social good, research-driven development, and building tools that make an impact.
 
-📌 Currently working on:
-- 🤖 AI-Based Mental Health Chatbot
-- 📊 Fraud & Suspicious Activity Prediction
-- 👶 MaternAI: Pregnancy Risk Prediction
-- 🛒 GrocerGenius: Supermarket Sales Forecasting
+📌 Projects:
+- Ahara – Food Redistribution & Waste Reduction App
+- YOLOv8-Based Mobile Phone Detection System
+- Real-Time Vehicle Detection and Risk Estimation System
+- NovaDetect: Lunar Landslide & Boulder Detection
 
 💡 Exploring advanced ML models, full-stack deployment, and research publication workflows.
 
@@ -55,12 +55,12 @@
 
 | 💡 Project | 📝 Description |
 |-----------|----------------|
-| 🧠 **[Mental Health Chatbot](#)** | Sentiment-aware conversational agent with emotion tracking and emotion charting |
-| 📸 **[YOLOv8-Based Phone Detector](#)** |  Real-time classroom analytics using custom-trained YOLOv8 on video datasets |
-| 📦 **[Smart Inventory Object Counter](#)** | Real-time camera-based system to count inventory items using OpenCV |
-| 🌞 **[Solar Tracking System](#)** | Arduino-powered dual-axis solar tracking for energy optimization |
-| ⛽ **[Gas Level Detection System](#)** | Prototype for monitoring gas cylinder levels using embedded sensors |
-| 🍲 **[Hearth – Recipe Book App](#)** | Desktop recipe management app built with Electron.js and local storage |
+| **[Ahara](#)** | Food Redistribution & Waste Reduction App - cross-platform mobile app connecting surplus food providers (restaurants, events, households) with NGOs and individuals in need. |
+| **[YOLOv8-Based Phone Detector](#)** |  Real-time classroom analytics using custom-trained YOLOv8 on video datasets |
+| **[Real-Time Vehicle Detection & Risk Estimation System](#)** | YOLO-based perception pipeline with proximity-driven collision risk scoring for high-throughput video streams. |
+| **[Sign Language Recognition using Deep Learning](#)** | Built a CNN-based ASL recognition system achieving 93% accuracy with an end-to-end pipeline for real-world AI applications. |
+| **[NovaDetect](#)** | Lunar Landslide & Boulder Detection – Lunar landslide segmentation (U-Net CNN) with DTM-aware boulder detection, generating geospatial outputs from Chandrayaan imagery. |
+| **[GalaxyZ Space – Responsive Education Platform](#)** | Built and deployed a full-stack education platform with modular architecture for scalable content delivery. |
 ---
 
 ## 📈 GitHub Stats
